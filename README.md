@@ -11,13 +11,14 @@ The hardware platform for [Terrestrial-Aerial-Navigation](https://github.com/ZJU
 
 ## Assembly 
 
-<p align = "center">
-<img src="figs/tie_assembly.png" width = "600"/>
-</p>
+  <p align="center">
+    <img src="figs/TIE_assembly.png" width="600"/>
+  </p>
+
 
 ## Exploded diagram
 
 <p align = "center">
-<img src="figs/tie_exploded.png" width = "1000"/>
+<img src="figs/TIE_exploded.png" width = "1000"/>
 </p>
 
